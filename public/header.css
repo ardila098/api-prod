@@ -1,0 +1,51 @@
+body{
+   
+display: grid;
+}
+
+
+
+
+
+.menu2{
+display: grid;
+background-color: black;
+grid-template-columns: repeat(2,1fr);
+vertical-align: auto;
+padding: 10px;
+    }
+  
+    .menu2 a{
+  
+        color: rgb(255, 255, 255);
+    }
+  
+  
+.logo{
+
+display: grid;
+margin-top: 40px;
+margin-bottom: 40px;
+align-content: center;
+}
+
+
+.contt{
+
+    display: grid;
+ text-align: right;
+}
+
+    .icons{
+
+
+margin-top: 40px;
+margin-bottom: 40px;
+
+  } 
+
+
+
+
+
+ 
